@@ -15,7 +15,7 @@
 
 ```
 mkdir -p ~/.chocolat/mixins
-git clone git://github.com/sxua/vos.chocmixin.git ~/.chocolat.mixins
+git clone git://github.com/sxua/vos.chocmixin.git ~/.chocolat/mixins
 ```
 
 ## TODO
